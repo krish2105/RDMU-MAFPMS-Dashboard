@@ -1,0 +1,214 @@
+Asset_Name,Sector,Price,Expected_Return,Risk,Liquidity,ESG_Score,Market_Cap,Region,Dividend_Yield,Beta,Bull_Return_Adjustment,Bear_Return_Adjustment,Volatility_Shock
+Apple Inc,Technology,186.55,14.03,0.211,0.96,74,Large,US,0.43,1.22,17.38,4.3,0.282
+Microsoft Corp,Technology,368.98,16.3,0.202,0.99,83,Large,US,0.73,0.87,20.34,4.91,0.328
+NVIDIA Corp,Technology,485.71,28.34,0.366,0.98,67,Large,US,0.0,1.64,34.06,10.0,0.482
+Alphabet Inc,Technology,139.66,15.42,0.257,0.94,73,Large,US,0.1,1.06,20.08,6.8,0.339
+Meta Platforms,Technology,314.78,18.19,0.283,0.94,52,Large,US,0.0,1.3,23.59,6.75,0.444
+Amazon.com Inc,Technology,177.12,17.78,0.263,0.98,63,Large,US,0.07,1.12,21.44,7.61,0.4
+Salesforce Inc,Technology,232.55,14.54,0.271,0.92,74,Large,US,0.09,1.09,16.62,6.01,0.43
+Adobe Inc,Technology,501.21,13.8,0.265,0.93,68,Large,US,0.0,1.02,17.14,5.75,0.44
+Intel Corp,Technology,41.75,8.22,0.3,0.94,62,Large,US,1.58,0.84,9.54,3.58,0.462
+Qualcomm Inc,Technology,153.93,12.5,0.269,0.92,67,Large,US,2.21,1.2,15.93,5.09,0.378
+Twilio Inc,Technology,65.55,13.61,0.417,0.82,62,Mid,US,0.11,1.38,16.74,6.57,0.687
+Cloudflare Inc,Technology,79.03,18.64,0.444,0.82,67,Mid,US,0.0,1.5,24.5,7.82,0.664
+Datadog Inc,Technology,112.32,16.06,0.419,0.82,60,Mid,US,0.0,1.39,21.19,6.38,0.556
+Palantir Technologies,Technology,22.34,20.27,0.485,0.78,46,Mid,US,0.0,1.55,25.36,9.85,0.777
+Snowflake Inc,Technology,171.94,15.71,0.426,0.81,57,Mid,US,0.0,1.38,18.13,5.78,0.654
+Johnson & Johnson,Healthcare,152.49,8.92,0.143,0.97,76,Large,US,2.97,0.57,9.96,5.16,0.202
+UnitedHealth Group,Healthcare,509.55,11.54,0.189,0.97,71,Large,US,1.39,0.75,13.98,5.74,0.253
+Pfizer Inc,Healthcare,27.88,7.72,0.199,0.95,78,Large,US,6.25,0.59,8.2,4.88,0.322
+Abbott Laboratories,Healthcare,105.47,9.89,0.171,0.92,78,Large,US,1.88,0.69,12.21,5.55,0.281
+Eli Lilly & Co,Healthcare,591.78,18.05,0.26,0.95,71,Large,US,1.08,0.45,19.55,10.31,0.36
+Merck & Co,Healthcare,117.3,8.46,0.155,0.96,71,Large,US,2.88,0.41,9.37,5.28,0.247
+Medtronic PLC,Healthcare,86.45,8.56,0.179,0.91,73,Large,US,3.44,0.66,9.92,5.45,0.237
+Boston Scientific,Healthcare,72.36,12.5,0.234,0.89,69,Mid,US,0.0,0.82,14.61,7.74,0.326
+Intuitive Surgical,Healthcare,371.33,14.59,0.24,0.89,72,Mid,US,0.0,0.82,16.97,7.72,0.337
+Regeneron Pharma,Healthcare,899.06,13.61,0.251,0.87,67,Mid,US,0.0,0.46,16.34,6.37,0.372
+JPMorgan Chase,Finance,200.83,11.3,0.203,0.96,59,Large,US,2.44,1.08,12.02,5.78,0.287
+Bank of America,Finance,34.87,9.54,0.232,0.98,65,Large,US,2.95,1.15,11.58,5.01,0.363
+Goldman Sachs,Finance,420.8,11.83,0.245,0.93,56,Large,US,2.2,1.33,12.92,6.34,0.386
+Berkshire Hathaway,Finance,372.73,10.51,0.14,0.97,55,Large,US,0.0,0.89,11.62,4.74,0.225
+Visa Inc,Finance,262.14,13.26,0.19,0.97,68,Large,US,0.8,0.94,16.43,8.26,0.258
+Mastercard Inc,Finance,422.89,13.87,0.182,0.97,67,Large,US,0.54,1.04,16.77,9.23,0.302
+BlackRock Inc,Finance,776.26,11.55,0.184,0.94,75,Large,US,2.42,1.16,12.48,7.88,0.303
+Morgan Stanley,Finance,92.57,11.51,0.255,0.92,62,Large,US,4.03,1.28,13.03,7.11,0.406
+Wells Fargo,Finance,47.27,8.46,0.258,0.95,47,Large,US,3.01,1.15,10.26,4.78,0.367
+Charles Schwab,Finance,69.21,9.23,0.201,0.92,61,Mid,US,1.33,1.04,11.12,4.96,0.302
+ExxonMobil Corp,Energy,106.13,8.84,0.233,0.94,41,Large,US,3.4,1.1,9.75,4.22,0.343
+Chevron Corp,Energy,157.13,8.81,0.234,0.95,48,Large,US,4.22,0.97,9.33,4.92,0.353
+ConocoPhillips,Energy,120.17,10.69,0.278,0.94,48,Large,US,1.81,1.11,12.64,5.69,0.396
+Schlumberger Ltd,Energy,53.09,11.72,0.272,0.89,55,Large,US,2.25,1.22,13.61,5.84,0.426
+NextEra Energy,Energy,61.55,8.25,0.147,0.92,82,Large,US,3.06,0.5,9.14,4.6,0.225
+Enphase Energy,Energy,141.3,16.46,0.398,0.84,78,Mid,US,0.09,1.6,19.71,10.12,0.563
+First Solar Inc,Energy,176.72,15.32,0.364,0.85,79,Mid,US,0.05,1.39,16.7,6.99,0.509
+Pioneer Natural Res,Energy,239.64,10.15,0.253,0.91,48,Large,US,5.22,1.1,11.44,5.58,0.344
+Duke Energy Corp,Utilities,96.07,5.89,0.124,0.92,73,Large,US,4.48,0.39,7.31,4.76,0.157
+Southern Company,Utilities,67.82,5.5,0.107,0.91,69,Large,US,4.15,0.45,6.26,5.14,0.137
+American Electric Power,Utilities,81.73,5.46,0.124,0.88,74,Large,US,3.92,0.39,6.57,4.88,0.138
+Dominion Energy,Utilities,46.4,4.57,0.113,0.88,70,Large,US,5.4,0.44,4.94,3.94,0.135
+Consolidated Edison,Utilities,87.64,4.83,0.096,0.88,70,Large,US,3.66,0.39,5.63,4.55,0.113
+Xcel Energy Inc,Utilities,61.41,5.34,0.102,0.87,79,Large,US,3.63,0.37,5.84,4.3,0.126
+Walmart Inc,Consumer,164.05,8.17,0.139,0.96,73,Large,US,1.46,0.59,10.2,5.03,0.185
+Procter & Gamble,Consumer,149.36,8.17,0.117,0.95,77,Large,US,2.36,0.53,10.48,4.45,0.187
+Coca-Cola Co,Consumer,61.19,6.25,0.103,0.94,73,Large,US,2.97,0.6,7.34,2.92,0.173
+PepsiCo Inc,Consumer,165.31,6.73,0.11,0.96,75,Large,US,2.75,0.48,8.51,3.98,0.153
+McDonald's Corp,Consumer,293.47,8.27,0.127,0.95,62,Large,US,2.37,0.75,9.62,4.36,0.194
+Nike Inc,Consumer,102.57,9.58,0.236,0.94,73,Large,US,1.41,0.93,12.42,4.89,0.373
+Costco Wholesale,Consumer,568.15,10.38,0.172,0.95,73,Large,US,0.73,0.76,12.62,5.63,0.258
+Home Depot,Consumer,316.95,10.15,0.193,0.93,63,Large,US,2.59,1.03,12.91,5.67,0.308
+Amazon Consumer,Consumer,190.17,15.27,0.272,0.97,58,Large,US,0.0,1.15,19.06,8.1,0.38
+Target Corp,Consumer,148.78,7.98,0.198,0.94,67,Large,US,3.08,0.81,9.06,5.29,0.272
+American Tower Corp,Real Estate,191.63,7.8,0.174,0.92,66,Large,US,3.16,0.73,9.0,3.88,0.243
+Prologis Inc,Real Estate,121.32,8.56,0.18,0.89,74,Large,US,2.9,0.95,9.15,4.33,0.284
+Crown Castle Inc,Real Estate,108.72,6.88,0.169,0.88,68,Large,US,5.95,0.63,7.71,3.88,0.24
+Equinix Inc,Real Estate,767.39,9.72,0.193,0.89,73,Large,US,2.11,0.75,11.64,5.05,0.296
+Simon Property Group,Real Estate,157.42,7.3,0.239,0.88,51,Large,US,5.42,1.12,7.69,4.26,0.337
+SPDR S&P 500 ETF,ETF,493.66,10.55,0.158,0.98,71,Large,US,1.53,0.96,11.1,5.5,0.236
+Invesco QQQ Trust,ETF,415.99,14.97,0.19,0.99,62,Large,US,0.65,1.11,15.94,9.09,0.251
+iShares Russell 2000,ETF,190.9,11.56,0.212,0.99,55,Mid,US,1.22,1.17,13.52,6.99,0.341
+Vanguard Total Market,ETF,228.35,11.21,0.152,0.99,66,Large,US,1.49,1.01,13.14,7.12,0.255
+iShares MSCI EAFE,ETF,72.7,8.21,0.176,0.96,60,Large,US,2.92,0.85,9.29,5.11,0.262
+Vanguard Emerging Mkt,ETF,40.82,9.29,0.211,0.98,52,Large,US,2.61,0.99,11.22,5.63,0.33
+iShares 20Y Treasury,Bonds,94.39,3.73,0.102,0.98,77,Large,US,4.0,0.08,4.04,3.4,0.118
+Vanguard Total Bond,Bonds,70.38,4.39,0.078,0.99,77,Large,US,3.56,0.08,5.13,4.0,0.086
+iShares HY Corp Bond,Bonds,76.73,5.97,0.134,0.94,49,Large,US,6.1,0.37,6.59,5.45,0.165
+PIMCO Active Bond,Bonds,104.55,4.48,0.083,0.94,72,Large,US,4.34,0.14,5.07,3.65,0.098
+Infosys Ltd,Technology,1449.61,12.66,0.216,0.94,73,Large,India,1.84,0.76,15.76,4.82,0.347
+Tata Consultancy Svc,Technology,3705.43,11.96,0.202,0.94,78,Large,India,1.51,0.71,15.31,3.71,0.304
+Wipro Ltd,Technology,469.37,9.99,0.255,0.9,71,Large,India,0.56,0.83,12.27,4.1,0.413
+HCL Technologies,Technology,1346.32,12.49,0.237,0.89,69,Large,India,3.64,0.77,17.07,5.51,0.371
+Tech Mahindra,Technology,1258.68,13.47,0.258,0.86,66,Mid,India,2.93,0.92,18.26,4.79,0.443
+Persistent Systems,Technology,4775.5,18.93,0.32,0.83,64,Mid,India,0.72,1.08,24.53,8.95,0.505
+Mphasis Ltd,Technology,2197.93,14.03,0.291,0.8,62,Mid,India,1.56,1.0,17.23,6.61,0.455
+HDFC Bank,Finance,1562.76,13.47,0.217,0.95,74,Large,India,1.29,0.87,15.23,9.31,0.315
+ICICI Bank,Finance,1027.92,14.03,0.204,0.95,65,Large,India,0.81,0.9,17.46,7.75,0.339
+State Bank of India,Finance,607.14,11.77,0.279,0.92,64,Large,India,1.77,1.01,13.72,7.28,0.45
+Bajaj Finance,Finance,7396.19,18.63,0.315,0.88,66,Large,India,0.26,1.11,22.84,12.67,0.567
+Kotak Mahindra Bank,Finance,1806.35,12.73,0.204,0.91,73,Large,India,0.0,0.85,14.77,5.82,0.312
+Axis Bank,Finance,1022.04,12.86,0.237,0.9,60,Large,India,0.97,1.01,14.58,6.04,0.414
+Reliance Industries,Energy,2467.6,13.24,0.237,0.94,62,Large,India,0.39,0.88,16.33,8.93,0.376
+ONGC Ltd,Energy,246.81,8.55,0.233,0.92,53,Large,India,5.44,1.1,10.59,4.82,0.354
+NTPC Ltd,Utilities,288.39,8.35,0.144,0.88,64,Large,India,3.22,0.7,9.68,7.5,0.189
+Power Grid Corp,Utilities,298.29,7.74,0.122,0.87,68,Large,India,3.9,0.59,9.71,7.12,0.151
+Tata Power,Utilities,374.31,10.76,0.261,0.84,68,Mid,India,0.59,0.99,13.23,9.32,0.351
+Asian Paints,Consumer,3121.31,12.3,0.21,0.89,70,Large,India,1.04,0.76,15.41,7.08,0.317
+Hindustan Unilever,Consumer,2400.69,9.91,0.168,0.94,79,Large,India,1.82,0.63,11.92,6.85,0.245
+Nestle India,Consumer,22615.78,10.36,0.149,0.9,81,Large,India,1.29,0.61,13.86,4.7,0.241
+Maruti Suzuki,Consumer,10471.52,13.67,0.227,0.89,68,Large,India,0.89,0.87,17.98,7.76,0.374
+Titan Company,Consumer,3490.41,16.33,0.264,0.87,72,Large,India,0.55,0.96,20.26,9.02,0.384
+ASML Holding NV,Technology,821.42,16.3,0.26,0.9,83,Large,Europe,0.77,1.05,20.6,7.97,0.382
+SAP SE,Technology,177.54,11.15,0.197,0.88,80,Large,Europe,1.23,0.86,13.22,3.83,0.291
+Capgemini SE,Technology,206.68,12.36,0.239,0.86,80,Large,Europe,1.51,0.87,14.44,5.8,0.354
+Siemens AG,Technology,166.61,10.94,0.204,0.87,85,Large,Europe,2.25,0.97,14.08,5.1,0.31
+Ericsson AB,Technology,6.53,8.11,0.269,0.87,75,Mid,Europe,2.92,0.8,10.56,2.64,0.377
+HSBC Holdings,Finance,8.04,8.66,0.221,0.9,58,Large,Europe,6.59,1.09,9.12,4.47,0.299
+BNP Paribas,Finance,57.72,9.11,0.243,0.9,61,Large,Europe,5.8,1.11,10.48,6.25,0.32
+Allianz SE,Finance,269.5,9.57,0.181,0.88,69,Large,Europe,4.77,0.82,10.82,5.95,0.271
+AXA SA,Finance,32.79,8.37,0.183,0.87,67,Large,Europe,5.09,0.89,9.77,5.26,0.266
+Deutsche Bank,Finance,12.57,7.29,0.3,0.86,53,Large,Europe,2.86,1.39,8.6,4.68,0.477
+ING Group,Finance,13.96,8.95,0.229,0.87,64,Large,Europe,6.17,1.12,9.96,4.73,0.321
+Novo Nordisk,Healthcare,110.94,22.69,0.219,0.9,81,Large,Europe,1.08,0.48,27.18,14.82,0.333
+Roche Holding,Healthcare,266.37,8.56,0.153,0.88,85,Large,Europe,3.61,0.52,9.71,5.81,0.202
+Novartis AG,Healthcare,96.75,8.01,0.144,0.9,80,Large,Europe,4.25,0.45,8.58,5.3,0.208
+AstraZeneca PLC,Healthcare,73.13,13.57,0.212,0.92,83,Large,Europe,2.45,0.56,15.99,6.2,0.354
+Bayer AG,Healthcare,28.55,6.27,0.227,0.88,67,Large,Europe,3.93,0.71,6.81,3.05,0.355
+Sanofi SA,Healthcare,92.55,8.04,0.199,0.86,77,Large,Europe,3.81,0.54,8.99,4.36,0.316
+LVMH Moet Hennessy,Consumer,762.46,14.57,0.223,0.88,70,Large,Europe,1.63,1.0,16.7,8.17,0.328
+Nestle SA,Consumer,102.66,7.91,0.119,0.91,79,Large,Europe,2.88,0.56,10.01,4.52,0.186
+Unilever PLC,Consumer,42.8,7.4,0.144,0.88,81,Large,Europe,4.08,0.61,9.49,3.87,0.194
+Airbus SE,Consumer,161.97,12.43,0.225,0.88,70,Large,Europe,1.1,1.15,16.05,5.82,0.37
+Volkswagen AG,Consumer,111.84,6.52,0.277,0.88,63,Large,Europe,7.48,0.94,8.2,3.41,0.405
+L'Oreal SA,Consumer,452.31,11.17,0.198,0.89,86,Large,Europe,1.58,0.68,14.51,5.71,0.304
+TotalEnergies SE,Energy,58.08,9.4,0.212,0.9,57,Large,Europe,4.88,0.81,11.06,5.48,0.292
+Shell PLC,Energy,30.5,8.65,0.238,0.93,52,Large,Europe,3.87,0.84,9.42,5.2,0.382
+BP PLC,Energy,5.85,7.68,0.251,0.9,53,Large,Europe,4.87,0.86,9.11,5.15,0.391
+Vestas Wind Systems,Energy,14.92,13.32,0.359,0.82,90,Mid,Europe,0.42,1.31,14.79,6.91,0.475
+Samsung Electronics,Technology,70030.81,12.31,0.258,0.88,73,Large,Asia,1.84,0.93,16.93,5.16,0.401
+Taiwan Semiconductor,Technology,602.89,16.95,0.29,0.88,78,Large,Asia,2.22,1.02,22.05,8.33,0.458
+Sony Group Corp,Technology,12223.9,10.84,0.259,0.86,74,Large,Asia,0.45,0.85,13.74,4.39,0.379
+Alibaba Group,Technology,77.4,12.28,0.356,0.87,56,Large,Asia,0.0,1.26,15.31,5.05,0.553
+Tencent Holdings,Technology,325.09,13.85,0.339,0.88,56,Large,Asia,0.4,1.16,16.73,6.84,0.569
+Baidu Inc,Technology,109.29,11.6,0.398,0.84,52,Mid,Asia,0.04,1.26,13.98,5.68,0.716
+SK Hynix,Technology,133217.09,14.09,0.347,0.82,62,Large,Asia,0.81,1.12,17.23,5.6,0.517
+Keyence Corp,Technology,53803.97,13.38,0.254,0.83,75,Mid,Asia,0.51,0.94,17.2,6.36,0.418
+ICBC China,Finance,4.53,8.15,0.207,0.89,56,Large,Asia,6.59,0.82,9.68,4.5,0.346
+China Construction Bank,Finance,5.12,8.14,0.211,0.88,55,Large,Asia,6.72,0.79,10.53,5.26,0.372
+Mitsubishi UFJ,Finance,1030.72,8.98,0.203,0.88,65,Large,Asia,3.43,0.87,10.83,6.21,0.351
+DBS Group Holdings,Finance,32.58,10.14,0.17,0.9,75,Large,Asia,5.16,0.86,12.6,5.87,0.246
+KB Financial Group,Finance,53626.79,9.16,0.218,0.86,68,Large,Asia,5.78,0.96,10.48,5.16,0.336
+Toyota Motor Corp,Consumer,2720.48,8.55,0.18,0.91,71,Large,Asia,2.81,0.67,11.68,5.64,0.299
+Honda Motor Co,Consumer,1678.85,8.14,0.191,0.91,72,Large,Asia,3.3,0.81,10.37,4.92,0.337
+Meituan,Consumer,116.54,14.22,0.366,0.88,53,Mid,Asia,0.01,1.24,17.6,7.47,0.519
+JD.com Inc,Consumer,27.87,12.29,0.358,0.83,55,Mid,Asia,0.03,1.17,15.77,6.27,0.522
+Sea Limited,Consumer,51.78,18.61,0.47,0.8,52,Mid,Asia,0.05,1.55,23.3,12.81,0.76
+PetroChina Co,Energy,6.61,7.51,0.221,0.88,43,Large,Asia,5.54,0.93,8.64,3.41,0.379
+Sinopec Corp,Energy,4.76,7.43,0.245,0.88,46,Large,Asia,6.28,0.81,8.7,3.97,0.406
+Woodside Energy,Energy,28.56,9.68,0.279,0.86,54,Mid,Asia,7.59,0.91,12.15,5.46,0.423
+WEG SA Brazil,Industrials,38.91,15.2,0.322,0.74,67,Mid,Asia,1.17,1.25,18.16,6.98,0.534
+Ambev SA,Consumer,11.85,9.86,0.202,0.77,64,Mid,Asia,4.39,0.77,13.39,6.27,0.355
+Magazine Luiza,Consumer,2.78,18.97,0.58,0.62,55,Small,Asia,0.01,1.65,25.14,8.91,0.95
+Grab Holdings,Technology,3.57,20.55,0.543,0.63,60,Small,Asia,0.0,1.54,27.2,7.99,0.857
+Gojek Tokopedia,Technology,8615.68,22.91,0.585,0.6,58,Small,Asia,0.14,1.66,27.38,8.54,0.95
+Sea Ltd Singapore,Technology,52.56,19.95,0.486,0.66,58,Small,Asia,0.0,1.54,24.48,7.43,0.865
+Kaspi.kz,Finance,77.76,18.15,0.378,0.61,60,Mid,Asia,3.58,1.26,21.89,9.97,0.627
+BHP Group Ltd,Materials,44.32,8.61,0.269,0.9,58,Large,Asia,5.32,1.08,10.81,5.39,0.4
+Rio Tinto PLC,Materials,60.4,9.69,0.26,0.89,58,Large,Europe,6.61,1.08,11.92,5.44,0.347
+Glencore PLC,Materials,4.85,10.85,0.273,0.86,45,Large,Europe,5.81,1.13,12.04,5.31,0.432
+Newmont Corp,Materials,38.46,8.17,0.274,0.86,66,Large,US,3.99,0.25,9.39,4.41,0.419
+Freeport-McMoRan,Materials,39.92,11.98,0.305,0.88,52,Mid,US,1.44,1.47,14.3,6.97,0.49
+Vale SA,Materials,13.76,9.57,0.319,0.85,52,Large,Asia,8.49,1.18,10.77,6.29,0.517
+Southern Copper,Materials,78.41,11.27,0.265,0.84,58,Mid,US,3.37,1.21,12.18,5.54,0.379
+Caterpillar Inc,Industrials,283.52,10.35,0.238,0.95,65,Large,US,1.82,0.97,12.85,5.37,0.369
+Deere & Company,Industrials,387.64,11.09,0.226,0.92,67,Large,US,1.25,1.07,13.24,6.67,0.37
+Honeywell Intl,Industrials,200.76,9.83,0.161,0.9,74,Large,US,2.28,0.86,10.74,5.83,0.249
+3M Company,Industrials,95.24,6.89,0.202,0.92,64,Large,US,5.79,0.91,8.18,3.61,0.268
+General Electric,Industrials,124.62,12.44,0.239,0.9,61,Large,US,0.14,1.22,13.86,8.67,0.344
+ABB Ltd,Industrials,34.79,11.26,0.201,0.86,76,Large,Europe,2.39,0.9,12.38,5.34,0.285
+Schneider Electric,Industrials,208.54,12.62,0.19,0.88,86,Large,Europe,1.89,0.92,15.07,6.28,0.259
+Siemens Energy,Industrials,25.74,10.47,0.295,0.84,77,Mid,Europe,0.13,1.1,13.02,5.27,0.425
+Happiest Minds Tech,Technology,827.08,18.49,0.395,0.75,68,Small,India,0.74,1.13,22.22,6.53,0.611
+Tanla Platforms,Technology,1093.61,20.05,0.402,0.7,59,Small,India,0.42,1.24,25.68,7.14,0.722
+Latent View Analytics,Technology,485.2,22.12,0.469,0.68,65,Small,India,0.5,1.33,27.72,9.3,0.732
+RateGain Travel Tech,Technology,583.45,24.04,0.489,0.66,59,Small,India,0.0,1.39,30.85,10.16,0.716
+Global Health Ltd,Healthcare,875.02,20.74,0.352,0.67,68,Small,India,0.55,1.12,25.15,11.8,0.495
+Clean Science Tech,Materials,1484.81,18.11,0.377,0.65,74,Small,India,0.96,1.06,22.08,9.35,0.627
+KPIT Technologies,Technology,1491.07,22.08,0.389,0.68,68,Small,India,0.4,1.23,28.79,7.28,0.651
+Zomato Ltd,Consumer,184.66,22.95,0.504,0.7,54,Mid,India,0.0,1.44,28.02,13.21,0.829
+Paytm (One97 Comm),Finance,449.23,18.85,0.589,0.69,46,Mid,India,0.0,1.53,23.23,10.96,0.899
+Nykaa (FSN Ecomm),Consumer,171.57,20.91,0.494,0.65,55,Small,India,0.11,1.5,28.03,10.79,0.787
+ARK Innovation ETF,ETF,49.32,18.28,0.472,0.96,59,Mid,US,0.08,1.6,21.72,10.46,0.704
+Global Clean Energy ETF,ETF,15.56,12.93,0.309,0.89,89,Mid,US,0.9,1.11,16.11,8.46,0.52
+iShares Global REIT,ETF,42.77,7.29,0.152,0.93,63,Large,US,3.63,0.87,8.74,3.67,0.248
+VanEck Gold Miners,ETF,28.11,9.06,0.291,0.88,62,Mid,US,1.23,0.42,10.73,5.28,0.453
+iShares ESG Aware ETF,ETF,95.37,11.41,0.169,0.92,89,Large,US,1.34,1.0,14.21,5.59,0.264
+Vanguard ESG Intl ETF,ETF,59.32,9.48,0.186,0.93,83,Large,US,1.8,0.91,11.68,4.48,0.285
+Zoom Video Comm,Technology,68.14,10.72,0.397,0.9,58,Mid,US,0.0,1.28,14.12,5.01,0.641
+Shopify Inc,Technology,70.64,18.75,0.455,0.86,59,Mid,US,0.0,1.39,21.59,6.69,0.772
+Block Inc,Finance,58.15,16.49,0.478,0.86,58,Mid,US,0.0,1.45,18.41,10.43,0.745
+Robinhood Markets,Finance,12.16,14.51,0.513,0.77,50,Small,US,0.08,1.52,17.72,9.78,0.837
+Rivian Automotive,Consumer,18.02,20.09,0.627,0.71,63,Small,US,0.0,1.72,22.73,10.97,0.927
+Lucid Group,Consumer,3.45,18.33,0.653,0.68,67,Small,US,0.05,1.74,20.94,8.79,0.929
+AppLovin Corp,Technology,149.15,22.5,0.436,0.83,54,Mid,US,0.06,1.46,29.66,7.74,0.734
+Celsius Holdings,Consumer,57.92,19.95,0.52,0.77,62,Small,US,0.01,1.48,24.69,12.29,0.721
+Monday.com,Technology,216.67,17.75,0.415,0.78,65,Mid,US,0.01,1.34,23.31,8.27,0.689
+UiPath Inc,Technology,24.55,15.54,0.437,0.79,62,Mid,US,0.0,1.29,19.37,6.25,0.709
+CrowdStrike Holdings,Technology,289.19,22.51,0.378,0.81,66,Mid,US,0.05,1.36,25.53,6.77,0.524
+Zscaler Inc,Technology,204.62,20.42,0.408,0.81,61,Mid,US,0.13,1.36,26.89,7.8,0.656
+SentinelOne,Technology,24.38,18.98,0.486,0.76,60,Small,US,0.0,1.46,22.88,9.35,0.802
+Fortinet Inc,Technology,66.5,14.86,0.285,0.87,68,Mid,US,0.01,1.2,17.45,4.53,0.405
+Palo Alto Networks,Technology,321.31,18.54,0.301,0.87,65,Large,US,0.0,1.12,21.65,8.4,0.395
+Bajaj Auto,Consumer,9591.31,12.61,0.237,0.89,64,Large,India,2.41,0.81,14.96,7.56,0.398
+Sun Pharma,Healthcare,1410.73,12.24,0.216,0.87,66,Large,India,0.88,0.75,13.81,8.55,0.323
+Dr Reddy Labs,Healthcare,5944.91,11.58,0.203,0.88,73,Large,India,0.6,0.63,13.07,7.12,0.302
+Cipla Ltd,Healthcare,1333.84,10.06,0.218,0.88,70,Large,India,0.59,0.67,12.06,6.97,0.387
+Adani Ports,Industrials,1262.85,14.79,0.273,0.84,53,Large,India,0.79,1.02,17.86,7.55,0.407
+Adani Green Energy,Energy,1838.61,18.14,0.379,0.76,72,Mid,India,0.14,1.23,20.44,9.26,0.561
+Tata Motors,Consumer,958.36,16.92,0.334,0.84,64,Large,India,0.45,1.14,21.24,10.17,0.473
+Tata Steel,Materials,141.28,12.3,0.304,0.86,56,Large,India,2.79,1.29,14.35,8.48,0.427
+UltraTech Cement,Materials,10057.05,10.96,0.205,0.86,60,Large,India,0.72,0.9,13.6,6.02,0.307
+Divi's Laboratories,Healthcare,3759.33,12.28,0.239,0.84,71,Large,India,0.78,0.72,14.73,5.83,0.428
+L&T Ltd,Industrials,3393.78,13.84,0.237,0.87,68,Large,India,0.76,0.99,17.28,6.28,0.384
+ITC Ltd,Consumer,452.27,9.72,0.152,0.89,68,Large,India,3.46,0.65,12.44,5.96,0.254
+Edelweiss Financial,Finance,96.57,14.82,0.339,0.76,55,Small,India,1.79,1.27,17.35,7.19,0.549
+Nuvoco Vistas,Materials,377.7,11.89,0.3,0.72,59,Small,India,0.36,1.01,15.33,7.34,0.512
+AU Small Finance Bank,Finance,676.43,16.84,0.289,0.79,59,Mid,India,0.0,1.15,18.73,10.26,0.513
