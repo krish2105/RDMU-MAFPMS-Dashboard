@@ -2,7 +2,6 @@
 
 **Group 4 - Krishna Mathur**
 **Module:** Multi-Agent Systems
-**Submission Date:** April 1st, 2026
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
